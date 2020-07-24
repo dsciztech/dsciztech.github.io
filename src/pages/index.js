@@ -13,7 +13,7 @@ const features = [
     description: (
       <>
         Enstitü içerisinde yeni yüzlerle
-        tanışırken arkadaşlar edin
+        tanışırken arkadaşlar edin.
       </>
     ),
   },
@@ -23,7 +23,7 @@ const features = [
     description: (
       <>
         Güncel konuları anlayabileceğin biçimde
-        toplulukla öğren
+        toplulukla öğren.
       </>
     ),
   },
@@ -33,7 +33,7 @@ const features = [
     description: (
       <>
         Yeni arkadaşlarınla birlikte uygulama,
-        dijital tasarım geliştir
+        dijital tasarım geliştir.
       </>
     ),
   },
