@@ -40,12 +40,12 @@ module.exports = {
           title: 'Bilgiler',
           items: [
             {
-              label: 'Style Guide',
+              label: 'DSC IZTECH',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'IZTECH',
+              to: 'docs/iztech/',
             },
           ],
         },
