@@ -9,7 +9,6 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Tanış</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         Enstitü içerisinde yeni yüzlerle
@@ -19,7 +18,6 @@ const features = [
   },
   {
     title: <>Öğren</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
         Güncel konuları anlayabileceğin biçimde
@@ -29,7 +27,6 @@ const features = [
   },
   {
     title: <>Geliştir</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         Yeni arkadaşlarınla birlikte uygulamalar,
