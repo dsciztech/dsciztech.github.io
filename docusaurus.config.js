@@ -8,9 +8,9 @@ module.exports = {
   organizationName: 'dsciztech', // Usually your GitHub org/user name.
   projectName: 'dsciztech', // Usually your repo name.
   themeConfig: {
-    defaultMode: 'dark',
+    defaultMode: 'light',
     colorMode: {
-      defaultMode: 'dark',
+      defaultMode: 'light',
     },
     navbar: {
       title: 'DSC IZTECH',
