@@ -32,8 +32,8 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Yeni arkadaşlarınla birlikte uygulama,
-        dijital tasarım geliştir.
+        Yeni arkadaşlarınla birlikte uygulamalar,
+        dijital tasarımlar geliştir.
       </>
     ),
   },
