@@ -4,9 +4,9 @@ module.exports = {
   url: 'https://dsciztech.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
-  organizationName: 'dsciztech', // Usually your GitHub org/user name.
-  projectName: 'dsciztech', // Usually your repo name.
+  favicon: 'img/logo.png',
+  organizationName: 'dsciztech',
+  projectName: 'dsciztech',
   themeConfig: {
     defaultMode: 'light',
     colorMode: {
@@ -16,7 +16,7 @@ module.exports = {
       title: 'DSC IZTECH',
       logo: {
         alt: 'DSC IZTECH logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
