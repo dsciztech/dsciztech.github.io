@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "docusaurus build && mkdir build/slides; mkdir build/slides/blog; for post in ./blog/*; do postname=${post#*blog/}; postname=${postname%.md*}; npx spectacle -a \"build\" -s \"$post\" && mv \"dist\" \"./build/slides/blog/${postname}\"; done",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve"
@@ -16,7 +16,9 @@
     "@mdx-js/react": "^1.5.8",
     "clsx": "^1.1.1",
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "spectacle": "^6.2.0",
+    "spectacle-cli": "^0.6.2"
   },
   "browserslist": {
     "production": [
