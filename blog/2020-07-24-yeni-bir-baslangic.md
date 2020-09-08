@@ -18,6 +18,8 @@ Bu yazıyla birlikte 2020 yılında topluluğun başkanı Burak Cabadan, yardım
 
 Öncelikle ben Oguz, DSC IZTECH'in kurucu başkanıyım, enstitünün matematik lisans programında okuyorum. Uzun yıllardır programlamaya ilgiliyim, AppStore, Google Play Store, Steam, Epic Games Marketplace gibi yerlerde ürün çıkarttım ya da çıkarılan ürünlere emek verdim. Enstitüye gelirken bir topluluk oluşturup orada disiplinlerarası, kompütasyonel (kodlamayı biyoloji, fizik, kimya gibi dallarla buluşturan yerlerle ilgili) çalışmalar üzerine diyalog yürütmek en büyük isteklerimden biriydi, planım ise bunu üçüncü yılımda başlatmaktı. Gelgelelim birinci yılın ikinci döneminde (2019 Mayıs gibi) Google Developers'ın DSC programı başvurularının ülke bölümünde bir kısıtlama olmadığını gördüm. Önceki yıllarda birkaç ülkede açıktı, bu programdan güç alıp, topluluğu erkenden başlatabileceğimi düşünerek neden bu programa girmek istediğimi belirten videomu oluşturup, başvurumu ilettim.
 
+<!--truncate-->
+
 # Başvurunun Onayı
 
 2019 yazında daha başvuruyla ilgili bilgi gelmemiş olsa da ben toplulukla ilgili ön çalışmalar yapmaya başladım, ne yapar, nasıl tanıtılır gibisinden. Birkaç ay sonra gelen bir mail ile başvurumun ilerlediğini öğrendim. Ayarlanan randevu üzerine yurtdışından bir yetkili ile, İngilizce olarak, görüşme gerçekleşti, sınama amaçlı. Görüşmenin güzel geçmesinin ardından 2019 Ağustos ayında programı ülkemizde açacak ilk beş kampüsten birinin kurucu başkanlığı yetkisini aldığımı öğrenince çok sevinip direkt mailde gösterilen Google Türkiye ekibiyle iletişime geçtim. Uzun süre yanıt alamadım ancak neyse ki uluslararası yetkilendirmeden dolayı erişebildiğim içerikler vardı, oraya danışabiliyordum.
