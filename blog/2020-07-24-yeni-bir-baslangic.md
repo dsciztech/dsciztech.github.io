@@ -8,17 +8,16 @@ author_image_url: https://avatars2.githubusercontent.com/u/5333693
 tags: [dsciztech, iztech, 2019, 2020]
 ---
 
-# Bir Başlangıç
-
 Hepinize iyi günler,
 
 Bu yazıyla birlikte 2020 yılında topluluğun başkanı Burak Cabadan, yardımcısı Feyza Nur Çelebi, mentörü ben olarak yeni bir başlangıç yapmadan önce sizlere DSC IZTECH'in arkasında yatan düşüncelerden söz edeceğim.
+
+<!--truncate-->
 
 # Başvuru Süreci
 
 Öncelikle ben Oguz, DSC IZTECH'in kurucu başkanıyım, enstitünün matematik lisans programında okuyorum. Uzun yıllardır programlamaya ilgiliyim, AppStore, Google Play Store, Steam, Epic Games Marketplace gibi yerlerde ürün çıkarttım ya da çıkarılan ürünlere emek verdim. Enstitüye gelirken bir topluluk oluşturup orada disiplinlerarası, kompütasyonel (kodlamayı biyoloji, fizik, kimya gibi dallarla buluşturan yerlerle ilgili) çalışmalar üzerine diyalog yürütmek en büyük isteklerimden biriydi, planım ise bunu üçüncü yılımda başlatmaktı. Gelgelelim birinci yılın ikinci döneminde (2019 Mayıs gibi) Google Developers'ın DSC programı başvurularının ülke bölümünde bir kısıtlama olmadığını gördüm. Önceki yıllarda birkaç ülkede açıktı, bu programdan güç alıp, topluluğu erkenden başlatabileceğimi düşünerek neden bu programa girmek istediğimi belirten videomu oluşturup, başvurumu ilettim.
 
-<!--truncate-->
 
 # Başvurunun Onayı
 
