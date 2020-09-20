@@ -1,40 +1,34 @@
 ---
 id: burak-cabadan-giris
-title: Burak Cabadan
+title: DSC Serüveni
 author: Burak Cabadan
 author_title: Başkan [2020-2021] @ DSC IZTECH
 author_url: https://github.com/burakcbdn
-author_image_url: https://avatars2.githubusercontent.com/u/5333693
+author_image_url: https://avatars0.githubusercontent.com/u/55558309?s=460&u=01abd9c01249db3fe495b00d59e9d3d6b3e1e8ec&v=4
 tags: [dsciztech, iztech, 2020, 2021]
 ---
 
-Hepinize iyi günler,
+İyi günler,
 
-Bu yazıyla birlikte 2020 yılında topluluğun başkanı Burak Cabadan, yardımcısı Feyza Nur Çelebi, mentörü ben olarak yeni bir başlangıç yapmadan önce sizlere DSC IZTECH'in arkasında yatan düşüncelerden söz edeceğim.
+Ben Burak, DSC IZTECH'in bu yılki başkanıyım. İYTE Bilgisayar Mühendisliğinde 2.sınıfta okuyorum. Çok erken başlamamış olsam da programlamayla yakından ilgiliyim.Tasarımını kız arkadaşımla yaptığımız yayınlanmamış bir kaç uygulamam, bir websitem ve daha bir sürü yazılımla alâkalı projem var. Peki bunları sağlayan ne? Tabi ki şu an başkanlığını yaptığım öğrenci topluluğu ve topluluğun eski başkanı Mehmet Oğuz Derin. 
 
 <!--truncate-->
 
-# Başvuru Süreci
+# İlk Günler
 
-Öncelikle ben Oguz, DSC IZTECH'in kurucu başkanıyım, enstitünün matematik lisans programında okuyorum. Uzun yıllardır programlamaya ilgiliyim, AppStore, Google Play Store, Steam, Epic Games Marketplace gibi yerlerde ürün çıkarttım ya da çıkarılan ürünlere emek verdim. Enstitüye gelirken bir topluluk oluşturup orada disiplinlerarası, kompütasyonel (kodlamayı biyoloji, fizik, kimya gibi dallarla buluşturan yerlerle ilgili) çalışmalar üzerine diyalog yürütmek en büyük isteklerimden biriydi, planım ise bunu üçüncü yılımda başlatmaktı. Gelgelelim birinci yılın ikinci döneminde (2019 Mayıs gibi) Google Developers'ın DSC programı başvurularının ülke bölümünde bir kısıtlama olmadığını gördüm. Önceki yıllarda birkaç ülkede açıktı, bu programdan güç alıp, topluluğu erkenden başlatabileceğimi düşünerek neden bu programa girmek istediğimi belirten videomu oluşturup, başvurumu ilettim.
+İsminde Google adını gördüğüm bu kulüp ilgimi çekmişti ve hemen katılmak istedim. Çoğu toplantıya katılım sağladım ve çalışmak istediğim alanı seçmemi sağlayan Flutter gibi projelerle DSC sayesinde tanıştım. ilk toplantılarda çokca Github'dan söz edildi ve pek bilgi sahibi olmasam da kullanmayı denedim ve artık, neredeyse her gün kullanıyorum. Anlatılan bir başka şey ise yapay zekaydı ve bu beni daha da heveslendirmişti. Ve bu projelerle birlikte DSC'nin bana çok şey katacağını düşünerek katılım sağlamaya devam ettim.
+
+# HashCode 2020
+
+Topluluk etkinliklerine düzenli katılım sağlayarak Oğuz'un kurduğu Tayga ekibine katılmıştım. Bu ekiple birlikte birkaç yarışmaya ve etkinliğe katılmak istedik. İlk katıldığımız etkinlik Google Hashcode 2020'idi. Gece 3'e kadar kod yazdığımız fikir yürüttüğümüz ve ilk defa bir ekiple çalıştığım ilk etkinlikti. Dünya geneli derece yapamamış olsak da Hub genelinde 1. olmuştuk ve bu DSC'nin bana bir şeyler katabileceğine olan inancımı artırmıştı.
+
+# Solution Challenge 
+Tayga ile katıldığımız 2. etkinlik Google Solution Challenge oldu. 4 kişi yerel bir soruna çözüm bulmak için bir uygulama fikri üzerinde çalıştık ve ortaya YolkhApp'ı çıkardık. Uzun çalışmalar sonucunda uygulamamızı teslim ettik. Yine dünya genelinde büyük bir başarı elde edemesek de, bana çok şey katan şeyler arasına grimişti ve Asya-Avrupa projeleri arasında ilk 10'a girmiştik.
+
+# Başkanlığa Adımlar
+2.dönem ortalarında Oğuz'dan her başkanın 1 yıl başkan kalabildiğini öğrenmiştim ve gelecek yıl için aday olmak istedim. Bundaki en büyük etken de benim DSC ile kendime bir şeyler katabildiğim gibi başkalarının da katabilmesini ve bunun devamlılığını sağlamak istememdi. 2.dönem bitiminde başvurumu yaptım, bir görüşme yaptıktan sonra başvurum onaylandı ve 2020-2021 eğitim-ğretim yılının başkanı artık bendim.
+
+# Yeni yıl
+Bu yıl içinde, ilk dönemin online olmasının avantajıyla, mentörümüz Oğuz ve Başkan yardımız Feyza Çelebi ile birlikte geçen yıl yapılanların üstüne daha çok şey koyarak herkese bir şeyler katmaya çalışacağız. Sürekli olarak online etkinlikler düzenleyecek, bir yandan kendimizi iş dünyasına atarken ve bir şeyler öğrenirken bir diğer yandan da eğleneceğiz. Yeni yılın hepimize bir şeyler katması dileğiyle...
 
 
-# Başvurunun Onayı
-
-2019 yazında daha başvuruyla ilgili bilgi gelmemiş olsa da ben toplulukla ilgili ön çalışmalar yapmaya başladım, ne yapar, nasıl tanıtılır gibisinden. Birkaç ay sonra gelen bir mail ile başvurumun ilerlediğini öğrendim. Ayarlanan randevu üzerine yurtdışından bir yetkili ile, İngilizce olarak, görüşme gerçekleşti, sınama amaçlı. Görüşmenin güzel geçmesinin ardından 2019 Ağustos ayında programı ülkemizde açacak ilk beş kampüsten birinin kurucu başkanlığı yetkisini aldığımı öğrenince çok sevinip direkt mailde gösterilen Google Türkiye ekibiyle iletişime geçtim. Uzun süre yanıt alamadım ancak neyse ki uluslararası yetkilendirmeden dolayı erişebildiğim içerikler vardı, oraya danışabiliyordum.
-
-# Topluluğun Kuruluşu
-
-Seçildiğim gün enstitümüzün SKS birimiyle iletişime geçtim, böyle bir topluluğun kayıtlı olması olası mı diye öğrenmek için, yanıt olumluydu. Özünde dijital, dağınık olarak çalışma yatan bir topluluk olduğu için ilk başta kayıtlı topluluk olma düşüncem yoktu, laptop'unu, tablet'ini kapıp gelen birkaç öğrenme arkadaşı olarak boş bir yer bulup, verimli olarak ilerleme sağlayabilirdik. Yine de kayıtlı olabilmek süreklilik ile potansiyel açısından önemli bir eklentiydi. Dönem başladığı gibi yakın arkadaşlarıma böyle bir gelişme olduğunu, benimle derslerinden kalan boşluklarında bu yolculukta birlikte olup olamayacaklarını sordum. Beklediğimden çoğu yardımcı olmak isteyip, bunu eyleme döktü, özellikle şu arkadaşlarımın topluluğun kurulmasında emeği vardır: İbrahim Şimşek, Sude Filiz, Elif Tansu Sunar, Simay Seçgin, Batuhan Biçer, İzzet Can Kurtuldu, Yüksel Altay Aksoy, Hatice Güçlü Yeşim Nur Tortop, Aycan Çelik, Hazal Aktaş, Mert Akman, Ege Özdemiryürek, Zeliha Naz Şanlı, İpek Koçhisarlı, Arda Sevinç, Emirhan Taşdeviren. Ancak bizlerin emeği kadar, belki de daha çok, enstitümüzün hep öğrenciden yana olan SKS biriminin, özellikle de şube müdürü Tekin Kösem abinin katkıları vardır. Gerekli belgeleri verdikten sonra enstitünün geleneksel topluluklar toplanıyor günü ile başladık.
-
-# 2019 İlk Dönemi
-
-Topluluklar toplanıyor gününde üye listesi oluşturmanın yanı sıra üye olmak isteyen arkadaşlara cloud (bulut bilişim) nedir, machine learning içerisinde dataset konseptiyle nasıl bağdaşıyoru bir boyama örneğiyle anlattık. Yüzlerce kişi topluluğa kayıt olarak topluluğun enerjisini yükseltti. Bunun ardından izleyen etkinliklerde topluluğu konferans formatında tanıttık, bulut bilişim çalıştayı gerçekleştirdik. Bu noktaya kadar daha DSC programının yerel ekibinden bir güçlendirecek yönlendirme alamamıştım... Girişi yaptıktan sonra topluluktaki üyelerimizle ilk başta yatan düşünceye yönelmek istedim: disiplinlerarası, kompütasyonel çalışmalar üzerine diyalog. Bunu ise topluluğun katılımcı olmak isteyen bütün üyeleriyle GitHub üzerinden güncel konularla ilgili belirlenmiş başlıklarda yazılar yazarak yapmayı planlıyordum. Ancak bununla ilgili kurduğum altyapı yeterince yönlendirici olmayıp, katkı yapmak isteyen üyelerimize kazandırdığı çok net olmadığı için birkaç yazı sonrasında ekipler çözüldüğünden dolayı güzel bir içerik kaynağına dönüşemedik. Oradan sonra ben uluslararası Google ile bilişim gelişmelerini kendim izleyerek düzenli olarak enstitümüzün Teknopark binasında üyelerimize sunumlar gerçekleştirdim, bizi sıkılmadan konuk eden Teknopark yönetimine, özellikle Burak Köle'ye teşekkürlerimi iletiyorum buradan. Bu etkinlikler içerisinde Figma, TensorFlow, GitHub, Flutter gibi nice teknolojiyi anlattım. Bu sırada da dönem arasında konuşmacı olarak The Last of Us Part II, Tomb Raider oyunlarında animatörlük yapmış Stefan Iverson'u çağırdım, çok doyurucu bir anlatım ile bizi 3D animasyonlar konusunda aydınlattı. Sonrasında ise Türkiye çapındaki DSC'lerin İstanbul'daki buluşması gerçekleşerek dönem sonlandı. İkinci dönemin başlamasından birkaç gün önce Google'ın HashCode etkinliğinin enstitümüzdeki ayağını DSC IZTECH olarak gerçekleştirdik. Şaşırtıcı bir detay olarak DSC ile ilgisi olmamasına karşın bu benim en eğlendiğim etkinlikti.
-
-# 2019 İkinci Dönemi
-
-İkinci dönem başladı, Solution Challenge yarışmasını tanıtıyoruz derken COVID-19 etkisiyle online eğitime geçildi. Ancak bu bizim topluluğumuz için bir çalışma olanağıydı: hızlıca enstitümüzün kullanacağı araçlara üyelerimizi yönlendirmek için duyurular geçip, beş ile on gün içerisinde GPU tekniklerinde uluslararası olarak en başarılı geliştiricilerden biri olan Kai Ninomiya ile bilgi, öğrenim dolu bir canlı yayını enstitünün seçtiği platformla etkileşimli olacak biçimde gerçekleştirdik. Sonrasında ise online eğitimler yapıp, yıllık gerçekleşen Solution Challenge yarışması için kendi projemizi geliştirmeye odaklandık derken dönem sona erdi. Bu süreçte etkinliklerimizde hep yanımızda olan Elif Şevval Güler, Özge Evran, Umut Suçsüzer arkadaşlarımın da emeği büyüktür.
-
-# Yeni Yıl
-
-İlk yılın özeti böyleydi, kimi planlar başarısızlık üzerinden öğrenime dönüşmüş olsa da eğlence, teknoloji, arkadaşlık, buluşma, IZTECH'i tanıma dolu güzel bir süreçti. Topluluk ilk yılında üzerinde bulunduğu düzlemi, kısıtlarıyla olanaklarıyla, tanıyabildi. Elde ettiği deneyimle topluluk, bu yıldan başlayarak, IZTECH'e, üyelerine üretilmiş çıktılarıyla da ölçülebilir katkıları olacaktır. Ben yaz içerisinde DSC IZTECH'in üyelerinin yazılar yazıp Türkiye çapındaki bütün internet kullanıclarının yararlanabileceği kaynağın altyapısıyla ilgili çalışmalar yaptım. Yıl içerisinde ise yeni başkanımız Burak Cabadan, yardımcımız Feyza Nur Çelebi ile birlikte IZTECH'i üye olmaya değer bir topluluk olarak yaşatıpi geliştirmek için çalışacağız. Burak da kendini tanıtan yazısında öğrendiklerini, toplulukla ilgili görüşlerini aktaracaktır.
