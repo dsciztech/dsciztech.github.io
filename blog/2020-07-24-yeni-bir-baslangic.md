@@ -44,8 +44,8 @@ gibisinden. Birkaç ay sonra gelen bir mail ile başvurumun ilerlediğini
 geçmesinin ardından 2019 Ağustos ayında programı ülkemizde açacak ilk beş
 kampüsten birinin kurucu başkanlığı yetkisini aldığımı öğrenince çok
 sevinip direkt mailde gösterilen Google Türkiye ekibiyle iletişime geçtim.
-<!--Uzun süre yanıt alamadım ancak neyse ki-->Uluslararası yetkilendirmeden
-dolayı erişebildiğim içerikler vardı, oraya danışıyordum sık sık.
+Uluslararası yetkilendirmeden dolayı erişebildiğim içerikler vardı, oraya
+danışıyordum sık sık.
 
 # Topluluğun Kuruluşu
 
@@ -76,9 +76,8 @@ olmak isteyen arkadaşlara cloud (bulut bilişim) nedir, machine learning
 içerisinde dataset konseptiyle nasıl bağdaşıyoru bir boyama örneğiyle
 anlattık. Yüzlerce kişi topluluğa kayıt olarak topluluğun enerjisini
 yükseltti. Bunun ardından izleyen etkinliklerde topluluğu konferans
-formatında tanıttık, bulut bilişim çalıştayı gerçekleştirdik. <!--Bu noktaya
-kadar daha DSC programının yerel ekibinden bir güçlendirecek yönlendirme
-alamamıştım...--> Girişi yaptıktan sonra topluluktaki üyelerimizle ilk başta
+formatında tanıttık, bulut bilişim çalıştayı gerçekleştirdik.
+Girişi yaptıktan sonra topluluktaki üyelerimizle ilk başta
 yatan düşünceye yönelmek istedim: disiplinlerarası, kompütasyonel
 çalışmalar üzerine diyalog. Bunu ise topluluğun katılımcı olmak isteyen
 bütün üyeleriyle GitHub üzerinden güncel konularla ilgili belirlenmiş
