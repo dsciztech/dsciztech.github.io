@@ -26,5 +26,3 @@ Daha önce sadece ne olduğunu bilmemi sağlayacak kadar erişebildiğim disipli
 # Sonuç
 
 Kısacası kurulan arkadaşlıklarıyla, eğlencesiyle ve her deneyimde daha üstü düşlemenizi sağlayacak bu güzel atmosfere katılan 2021 üyelerimiz ve oluşturulan altyapıya dahil olan tüm kullanıcılar hepiniz Hoş geldiniz.  
-
-
