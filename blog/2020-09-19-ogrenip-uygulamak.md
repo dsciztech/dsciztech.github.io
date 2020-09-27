@@ -16,7 +16,8 @@ Ben Feyza, DSCIZTECH'in bu seneki yardımcısıyım. Enstitüde mimarlık bölü
 
 # Tanışma
 
-“Topluluklar Toplanıyor” etkinliğinde okula yeni başlamanın etkisiyle birçok topluluğa katılmak istemiştim ancak topluluğumuzun tanıtımına girdiğimde bu görüşüm
+“Topluluklar Toplanıyor” etkinliğinde okula yeni başlamanın etkisiyle birçok topluluğa katılmak istemiştim ancak topluluğumuzun tanıtımına
+girdiğimde bu görüşüm
 tamamen değişti ve gerçekten aktif olabileceğim beni geliştiren topluluklarda yer alma kararı aldım. Özellikle topluluğun her üyesine görev vererek büyük bir ekip çalışmasının yanı sıra topluluk içerisinde oluşturulabilecek küçük ekiplerle kendinizi geliştirmenizi ve farklı bir bakış açısı kazanmanızı sağlayan bir atmosfere giriyorsunuz topluluğa dahil olduğunuzda. 
 
 # Solution Challenge
