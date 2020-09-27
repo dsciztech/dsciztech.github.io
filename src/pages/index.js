@@ -36,12 +36,12 @@ const features = [
   },
 ];
 
-function Feature({imageUrl, title, description}) {
+function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
     <div className={clsx('col col--4', styles.feature)}>
       {imgUrl && (
-        <div className="text--center">
+        <div className='text--center'>
           <img className={styles.featureImage} src={imgUrl} alt={title} />
         </div>
       )}
@@ -53,32 +53,56 @@ function Feature({imageUrl, title, description}) {
 
 function Home() {
   const context = useDocusaurusContext();
-  const {siteConfig = {}} = context;
+  const { siteConfig = {} } = context;
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Developer Student Clubs at Izmir Institute of Technology">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              Bize Katıl
-            </Link>
-          </div>
+      description='Developer Student Clubs at Izmir Institute of Technology'>
+      <header
+        className={clsx('hero hero--secondary', styles.heroBanner)}
+        style={{
+          backgroundColor: 'black',
+          height: '32em',
+          padding: '0.64em',
+        }}>
+        <div className='container'>
+          <h1
+            className='hero__title'
+            style={{
+              color: 'white',
+              fontSize: '4em',
+              paddingBottom: '0.32em',
+            }}>
+            Bizimle yılına anlam kat.
+          </h1>
+          <span
+            style={{
+              backgroundColor: 'white',
+              padding: '1.28em',
+            }}>
+            <a
+              href={useBaseUrl('docs/')}
+              style={{
+                color: 'black',
+                fontSize: '2em',
+                fontWeight: 900,
+                textDecoration: 'underline',
+              }}>
+              Buraya tıkla, DSCIZTECH'e katıl.
+            </a>
+          </span>
         </div>
       </header>
       <main>
+        <h1 style={{
+          fontSize: '4em',
+          paddingTop: '0.64em',
+          textAlign: 'center',
+        }}>Niye <u>biz</u>?</h1>
         {features && features.length > 0 && (
           <section className={styles.features}>
-            <div className="container">
-              <div className="row">
+            <div className='container'>
+              <div className='row'>
                 {features.map((props, idx) => (
                   <Feature key={idx} {...props} />
                 ))}

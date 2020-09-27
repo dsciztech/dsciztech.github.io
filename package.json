@@ -11,14 +11,13 @@
     "serve": "docusaurus serve"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-alpha.59",
-    "@docusaurus/preset-classic": "^2.0.0-alpha.59",
-    "@mdx-js/react": "^1.5.8",
+    "@docusaurus/core": "^2.0.0-alpha.64",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.64",
+    "@mdx-js/react": "^1.6.18",
     "clsx": "^1.1.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "spectacle": "^6.2.0",
-    "spectacle-cli": "^0.6.2"
+    "webpack": "^4.44.2"
   },
   "browserslist": {
     "production": [

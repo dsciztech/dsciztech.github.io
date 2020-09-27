@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    'DSC IZTECH': ['uyelik'],
+    'DSCIZTECH': ['uyelik'],
     'IZTECH': ['iztech'],
   },
 };

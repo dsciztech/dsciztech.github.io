@@ -1,5 +1,5 @@
 ---
-id: iztech
+slug: /iztech
 title: IZTECH
 sidebar_label: IZTECH
 ---

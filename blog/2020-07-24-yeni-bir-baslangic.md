@@ -1,8 +1,8 @@
 ---
-id: yeni-bir-baslangic
+slug: 2020/07/24/yeni-bir-baslangic
 title: Yeni Bir Başlangıç
 author: Mehmet Oguz Derin
-author_title: Kurucu Başkan [2019-2020] @ DSC IZTECH
+author_title: Kurucu Başkan [2019-2020] @ DSCIZTECH
 author_url: https://github.com/mehmetoguzderin
 author_image_url: https://avatars2.githubusercontent.com/u/5333693
 tags: [dsciztech, iztech, 2019, 2020]
@@ -12,14 +12,14 @@ Hepinize iyi günler,
 
 Bu yazıyla birlikte 2020 yılında topluluğun başkanı Burak Cabadan,
 yardımcısı Feyza Nur Çelebi, mentörü ben olarak yeni bir başlangıç
-yapmadan önce sizlere DSC IZTECH'in arkasında yatan düşüncelerden
+yapmadan önce sizlere DSCIZTECH'in arkasında yatan düşüncelerden
 söz edeceğim.
 
 <!--truncate-->
 
 # Başvuru Süreci
 
-Öncelikle ben Oguz, DSC IZTECH'in kurucu başkanıyım, enstitünün
+Öncelikle ben Oguz, DSCIZTECH'in kurucu başkanıyım, enstitünün
 matematik lisans programında okuyorum. Uzun yıllardır programlamaya
 ilgiliyim, AppStore, Google Play Store, Steam, Epic Games Marketplace
 gibi yerlerde ürün çıkarttım ya da çıkarılan ürünlere emek verdim.
@@ -96,7 +96,7 @@ Iverson'a gelip gelemeyeceğini sordum, kırmayıp geldi, çok doyurucu bir
 anlatım ile bizi 3D animasyonlar konusunda aydınlattı. Sonrasında ise
 Türkiye çapındaki DSC'lerin İstanbul'daki buluşması gerçekleşerek dönem
 sonlandı. İkinci dönemin başlamasından birkaç gün önce Google'ın HashCode
-etkinliğinin enstitümüzdeki ayağını DSC IZTECH olarak gerçekleştirdik.
+etkinliğinin enstitümüzdeki ayağını DSCIZTECH olarak gerçekleştirdik.
 Şaşırtıcı bir detay olarak DSC ile ilgisi olmamasına karşın bu benim en
 eğlendiğim etkinlikti.
 
@@ -121,7 +121,7 @@ dönüşmüş olsa da eğlence, teknoloji, arkadaşlık, buluşma, IZTECH'i tan�
 dolu güzel bir süreçti. Topluluk ilk yılında üzerinde bulunduğu düzlemi,
 kısıtlarıyla olanaklarıyla, tanıyabildi. Elde ettiği deneyimle topluluk,
 bu yıldan başlayarak, IZTECH'e, üyelerine üretilmiş çıktılarıyla da
-ölçülebilir katkıları olacaktır. Ben yaz içerisinde DSC IZTECH'in
+ölçülebilir katkıları olacaktır. Ben yaz içerisinde DSCIZTECH'in
 üyelerinin yazılar yazıp Türkiye çapındaki bütün internet kullanıclarının
 yararlanabileceği kaynağın altyapısıyla ilgili çalışmalar yaptım. Yıl
 içerisinde ise yeni başkanımız Burak Cabadan, yardımcımız Feyza Nur
