@@ -5,6 +5,8 @@ title: Üyelik
 sidebar_label: Üyelik
 ---
 
+Eğer bilgilerini dolduramıyorsan biraz aşağıdaki "Oturum Aç" butonuna tıklayıp Google (Gmail) üyeliğine giriş yapmalısın.
+
 <iframe
   src={"https://docs.google.com/forms/d/e/"+
        "1FAIpQLSeH1XVN7vEbTYknE-WDHrxwaboKnyQ8Z28y2At553neEUgY0w/"+
