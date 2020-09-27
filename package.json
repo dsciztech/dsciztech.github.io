@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build && mkdir build/slides; mkdir build/slides/blog; for post in ./blog/*; do postname=${post#*blog/}; postname=${postname%.md*}; npx spectacle -a \"build\" -s \"$post\" && mv \"dist\" \"./build/slides/blog/${postname}\"; done",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve"
