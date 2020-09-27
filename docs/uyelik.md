@@ -10,4 +10,4 @@ sidebar_label: Üyelik
        "1FAIpQLSeH1XVN7vEbTYknE-WDHrxwaboKnyQ8Z28y2At553neEUgY0w/"+
        "viewform?embedded=true"}
   width="450" height="4500" frameborder="0"
-  marginheight="0" marginwidth="0">Üyelik başvurusu yükleniyor...</iframe>
+  marginheight="0" marginwidth="0" scrolling="no">Üyelik başvurusu yükleniyor...</iframe>
