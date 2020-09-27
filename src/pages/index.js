@@ -98,7 +98,7 @@ function Home() {
           fontSize: '4em',
           paddingTop: '0.64em',
           textAlign: 'center',
-        }}>Niye <u>biz</u>?</h1>
+        }}>Neden <u>biz</u>?</h1>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className='container'>
