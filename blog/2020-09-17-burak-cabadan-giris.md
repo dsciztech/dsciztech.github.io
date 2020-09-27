@@ -1,8 +1,8 @@
 ---
-id: burak-cabadan-giris
+slug: 2020/09/17/burak-cabadan-giris
 title: DSC Serüveni
 author: Burak Cabadan
-author_title: Başkan [2020-2021] @ DSC IZTECH
+author_title: Başkan [2020-2021] @ DSCIZTECH
 author_url: https://github.com/burakcbdn
 author_image_url: https://avatars0.githubusercontent.com/u/55558309?s=460&u=01abd9c01249db3fe495b00d59e9d3d6b3e1e8ec&v=4
 tags: [dsciztech, iztech, 2020, 2021]
@@ -10,7 +10,7 @@ tags: [dsciztech, iztech, 2020, 2021]
 
 İyi günler,
 
-Ben Burak, DSC IZTECH'in bu yılki başkanıyım. İYTE Bilgisayar Mühendisliğinde 2.sınıfta okuyorum. Çok erken başlamamış olsam da programlamayla yakından ilgiliyim.Tasarımını kız arkadaşımla yaptığımız yayınlanmamış birkaç uygulamam, bir websitem ve daha bir sürü yazılımla alâkalı projem var. Peki bunları sağlayan ne? Tabi ki şu an başkanlığını yaptığım öğrenci topluluğu ve topluluğun eski başkanı Mehmet Oğuz Derin. 
+Ben Burak, DSCIZTECH'in bu yılki başkanıyım. İYTE Bilgisayar Mühendisliğinde 2.sınıfta okuyorum. Çok erken başlamamış olsam da programlamayla yakından ilgiliyim.Tasarımını kız arkadaşımla yaptığımız yayınlanmamış birkaç uygulamam, bir websitem ve daha bir sürü yazılımla alâkalı projem var. Peki bunları sağlayan ne? Tabi ki şu an başkanlığını yaptığım öğrenci topluluğu ve topluluğun eski başkanı Mehmet Oğuz Derin. 
 
 <!--truncate-->
 

@@ -1,8 +1,8 @@
 ---
-id: ogrenip-uygulamak
+slug: 2020/09/19/ogrenip-uygulamak
 title: Öğrenip Uygulamak
 author: Feyzanur Çelebi
-author_title: Yardımcı [2019-2021] @ DSC IZTECH
+author_title: Yardımcı [2019-2021] @ DSCIZTECH
 author_url: https://github.com/FeyzaCelebi
 author_image_url: https://avatars2.githubusercontent.com/u/57593471
 tags: [dsciztech, iztech, 2019, 2020, 2021]
@@ -10,7 +10,7 @@ tags: [dsciztech, iztech, 2019, 2020, 2021]
 
 Öncelikle hepinize güzel günler, 
 
-Ben Feyza, DSC IZTECH'in bu seneki yardımcısıyım. Enstitüde mimarlık bölümünde öğrenciyim. Size topluluğa katılışım ve devam sürecinden bahsetmek istiyorum. 
+Ben Feyza, DSCIZTECH'in bu seneki yardımcısıyım. Enstitüde mimarlık bölümünde öğrenciyim. Size topluluğa katılışım ve devam sürecinden bahsetmek istiyorum. 
 
 <!--truncate-->
 

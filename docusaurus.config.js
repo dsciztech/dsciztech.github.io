@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'DSC IZTECH',
+  title: 'DSCIZTECH',
   tagline: 'Developer Student Clubs at Izmir Institute of Technology',
   url: 'https://dsciztech.com',
   baseUrl: '/',
@@ -8,14 +8,14 @@ module.exports = {
   organizationName: 'dsciztech',
   projectName: 'dsciztech',
   themeConfig: {
-    defaultMode: 'light',
+    defaultMode: 'dark',
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: 'dark',
     },
     navbar: {
-      title: 'DSC IZTECH',
+      title: 'DSCIZTECH',
       logo: {
-        alt: 'DSC IZTECH logo',
+        alt: 'DSCIZTECH icon',
         src: 'img/logo.png',
       },
       items: [
@@ -40,7 +40,7 @@ module.exports = {
           title: 'Bilgiler',
           items: [
             {
-              label: 'DSC IZTECH',
+              label: 'DSCIZTECH',
               to: 'docs/',
             },
             {
