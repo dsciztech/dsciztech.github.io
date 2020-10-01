@@ -2,12 +2,13 @@
 slug: 2020/10/01/core-team-seruvenim
 title: Core Team Serüvenim
 author: Merve Kalaylar
-author_title: Topluluk Yardımcısı [2020-2021] @ DSCIZTECH
+author_title: Yardımcı [2020-2021] @ DSCIZTECH
 author_url: https://github.com/miellaboo
+author_image_url: https://avatars2.githubusercontent.com/u/71611930
 tags: [dsciztech, iztech, 2020, 2021]
 ---
 
-İyi günler arkadaşlar ben Merve. DSCIZTECH'in topluluk yardımcısı ünvanıyla yeni core
+İyi günler arkadaşlar ben Merve. DSCIZTECH yardımcı unvanıyla yeni core
 team üyesiyim. Bu yazımda sizlere neden bir core team üyesi olmak istediğimden bahsedeceğim.
 
 <!--truncate-->
