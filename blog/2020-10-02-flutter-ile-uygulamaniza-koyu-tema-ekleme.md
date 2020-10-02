@@ -21,7 +21,7 @@ olan “Firebase offline kullanımı” konusunu işleyeceğim.
 *****
 
 Uygulamayı oluşturduktan sonra temayı oluşturmak için yapmamız gereken
-**MaterailApp** içinde **theme** ve **darkTheme** parametrelerine istediğimiz
+**MaterialApp** içinde **theme** ve **darkTheme** parametrelerine istediğimiz
 özelliklerle birlikte **ThemeData** eklemek. (Direkt olarak ThemeData.Dark()
 eklemek bazı renklerde uyumsuzluk çıkarabileceği için pek tavsiye etmiyorum.)
 
