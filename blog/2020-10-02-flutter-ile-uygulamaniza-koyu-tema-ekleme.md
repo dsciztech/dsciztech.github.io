@@ -103,7 +103,7 @@ ilerleyen kısmında bahsedeceğim)
 
 *****
 
-Hive kullanabilmek için uygulamanın main metodunda bir kaç değişiklik yapmamız
+Hive kullanabilmek için uygulamanın main metodunda birkaç değişiklik yapmamız
 gerekiyor. Main metodunda Hive initialization işlemi için path_provider paketine
 de ihtiyacımız olacak
 
@@ -128,9 +128,9 @@ box objesini tamamlamak. Bu sayede “themeBox” isimli bir veri tabanımız ol
 *****
 
 `MaterialApp` içinde **`theme`** ve **`darkTheme`** dışında eklememiz gereken bir
-diğer parametre de **`themeMode`** bu parametre tema kontrolcümüzün döndüreceği
+diğer parametre de **`themeMode`**. Bu parametre tema kontrolcümüzün döndüreceği
 tema modunu kullanarak hangi temayı kullanacağımızı seçecek. Bunu kullanmak için
-yapmamız gereken şey **`themeMode`** paramatresine
+yapmamız gereken şey **`themeMode`** parametresine
 **`themeController.currentTheme()`** methodunu eklemek. Böylece biz switch
 methodlarımızı kullandığımızda tema modu değişecek ve `MaterialApp` temamızı bu
 moda göre ayarlayacak.
