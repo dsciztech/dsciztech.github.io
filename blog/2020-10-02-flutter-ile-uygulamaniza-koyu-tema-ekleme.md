@@ -4,8 +4,8 @@ title: Flutter ile Uygulamanıza Koyu Tema Ekleme
 author: Burak Cabadan
 author_title: Başkan [2020-2021] @ DSCIZTECH
 author_url: https://github.com/burakcbdn
-author_image_url: https://avatars0.githubusercontent.com/u/55558309?s=460&u=01abd9c01249db3fe495b00d59e9d3d6b3e1e8ec&v=4
-tags: [dsciztech, iztech, 2020, 2021]
+author_image_url: https://avatars0.githubusercontent.com/u/55558309
+tags: [dsciztech, iztech, dart, flutter, ux, 2020, 2021]
 ---
 
 Son zamanlarda popülerleşen ve her uygulama için neredeyse bir zorunluluk haline
