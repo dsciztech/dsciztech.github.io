@@ -21,8 +21,8 @@ olan “Firebase offline kullanımı” konusunu işleyeceğim.
 *****
 
 Uygulamayı oluşturduktan sonra temayı oluşturmak için yapmamız gereken
-**MaterialApp** içinde **theme** ve **darkTheme** parametrelerine istediğimiz
-özelliklerle birlikte **ThemeData** eklemek. (Direkt olarak ThemeData.Dark()
+**`MaterialApp`** içinde **`theme`** ve **`darkTheme`** parametrelerine istediğimiz
+özelliklerle birlikte **`ThemeData`** eklemek. (Direkt olarak `ThemeData.Dark()`
 eklemek bazı renklerde uyumsuzluk çıkarabileceği için pek tavsiye etmiyorum.)
 
 ```dart
@@ -94,11 +94,11 @@ class ThemeController with ChangeNotifier {
 }
 ```
 
-ThemeController classı içinde oluşturduğumuz **box** objesini kullanarak tema
+ThemeController classı içinde oluşturduğumuz **`box`** objesini kullanarak tema
 bilgimizi local’e kaydetmiş olduk. şimdi projemizin her yerinden
-**themeController.switchToLight()** ya da **themeController.switchToDark()**
+**`themeController.switchToLight()`** ya da **`themeController.switchToDark()`**
 komutunu kullanarak tema modumuzu değiştirebiliriz. Şimdi gelelim bu tema modunu
-kullanmaya. (switch metodları içindeki **notifyListeners()** metodundan yazının
+kullanmaya. (switch metodları içindeki **`notifyListeners()`** metodundan yazının
 ilerleyen kısmında bahsedeceğim)
 
 *****
@@ -127,12 +127,12 @@ box objesini tamamlamak. Bu sayede “themeBox” isimli bir veri tabanımız ol
 
 *****
 
-MaterialApp içinde **theme** ve **darkTheme** dışında eklememiz gereken bir
-diğer parametre de **themeMode** bu parametre tema kontrolcümüzün döndüreceği
+`MaterialApp` içinde **`theme`** ve **`darkTheme`** dışında eklememiz gereken bir
+diğer parametre de **`themeMode`** bu parametre tema kontrolcümüzün döndüreceği
 tema modunu kullanarak hangi temayı kullanacağımızı seçecek. Bunu kullanmak için
-yapmamız gereken şey **themeMode** paramatresine
-**themeController.currentTheme()** methodunu eklemek. Böylece biz switch
-methodlarımızı kullandığımızda tema modu değişecek ve MaterialApp temamızı bu
+yapmamız gereken şey **`themeMode`** paramatresine
+**`themeController.currentTheme()`** methodunu eklemek. Böylece biz switch
+methodlarımızı kullandığımızda tema modu değişecek ve `MaterialApp` temamızı bu
 moda göre ayarlayacak.
 
 ```dart
@@ -146,11 +146,11 @@ MaterialApp(
 Son olarak, bildiğiniz gibi Flutter’da bir widgetin değişmesi için setState
 metodu kullanılmalıdır. Aynı şekilde temamızı değiştirmek için de setState
 metodunu kullanacağız. Peki ne zaman? Yazının yukarısında bahsettiğim
-**notifyListeners()** metodunu kullanacağımız yer burası. themeController ile
+**`notifyListeners()`** metodunu kullanacağımız yer burası. themeController ile
 temayı değiştirdiğimizde bu metod, direkt olarak çevirmek gerekirse bu classdaki
 değişimleri dinleyenlere uyarı gönderecek. Şimdi göndermesi için bize bir
-dinleyici lazım. MaterialApp’ımız olduğu statefull widget’in **initState()**
-metodunda themeControllerimize dinleyici ekleyelim.
+dinleyici lazım. MaterialApp’ımız olduğu statefull widget’in **`initState()`**
+metodunda `themeController`imize dinleyici ekleyelim.
 
 ```dart
  @override
@@ -165,8 +165,8 @@ metodunda themeControllerimize dinleyici ekleyelim.
   }
 ```
 
-Bu sayede themeController class’ında bir değişim olduğunda bilgi verecek ve
-setState metodunu çalıştırıp yeni temamıza kavuşmuş olacağız.
+Bu sayede `themeController` class’ında bir değişim olduğunda bilgi verecek ve
+`setState` metodunu çalıştırıp yeni temamıza kavuşmuş olacağız.
 
 Kaynak Kod:
 [https://github.com/burakcbdn/BBTasks](https://github.com/burakcbdn/BBTasks)
