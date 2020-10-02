@@ -1,15 +1,12 @@
 ---
-slug: 2020/10/02/flutter-dark-theme
-title: Flutter ile Koyu Tema
+slug: 2020/10/02/flutter-ile-uygulamaniza-koyu-tema-ekleme
+title: Flutter ile Uygulamanıza Koyu Tema Ekleme
 author: Burak Cabadan
 author_title: Başkan [2020-2021] @ DSCIZTECH
 author_url: https://github.com/burakcbdn
 author_image_url: https://avatars0.githubusercontent.com/u/55558309?s=460&u=01abd9c01249db3fe495b00d59e9d3d6b3e1e8ec&v=4
 tags: [dsciztech, iztech, 2020, 2021]
 ---
-### Flutter ile Uygulamanıza Koyu Tema Ekleme
-
-<br> 
 
 Son zamanlarda popülerleşen ve her uygulama için neredeyse bir zorunluluk haline
 gelen **koyu tema** özelliğini Flutter uygulamalarınızda da oldukça kolay bir
@@ -19,6 +16,8 @@ göstereceğim. Bu gösterimi kişisel projem olan BBTasks (basit bir TODO app)
 üzerinden yapacağım ve başka bir yazıda da uygulamada bulunan bir farklı özellik
 olan “Firebase offline kullanımı” konusunu işleyeceğim. 
 
+<!--truncate-->
+
 *****
 
 Uygulamayı oluşturduktan sonra temayı oluşturmak için yapmamız gereken
@@ -26,7 +25,7 @@ Uygulamayı oluşturduktan sonra temayı oluşturmak için yapmamız gereken
 özelliklerle birlikte **ThemeData** eklemek. (Direkt olarak ThemeData.Dark()
 eklemek bazı renklerde uyumsuzluk çıkarabileceği için pek tavsiye etmiyorum.)
 
-```Dart
+```dart
 MaterialApp(
       theme: ThemeData(
         primaryColor: Colors.white,
