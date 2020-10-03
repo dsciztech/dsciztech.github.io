@@ -5,7 +5,7 @@ author: Burak Cabadan
 author_title: Başkan [2020-2021] @ DSCIZTECH
 author_url: https://github.com/burakcbdn
 author_image_url: https://avatars0.githubusercontent.com/u/55558309
-tags: [dsciztech, iztech, dart, flutter, ux, 2020, 2021]
+tags: [dart, flutter, ux, 2020, 2021]
 ---
 
 Son zamanlarda popülerleşen ve her uygulama için neredeyse bir zorunluluk haline
