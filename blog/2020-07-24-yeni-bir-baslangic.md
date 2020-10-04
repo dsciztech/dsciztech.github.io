@@ -128,3 +128,11 @@ içerisinde ise yeni başkanımız Burak Cabadan, yardımcımız Feyza Nur
 Çelebi ile birlikte IZTECH'i üye olmaya değer bir topluluk olarak yaşatıp
 geliştirmek için çalışacağız. Burak da kendini tanıtan yazısında
 öğrendiklerini, toplulukla ilgili görüşlerini aktaracaktır.
+
+<script src="https://dsciztech.com/utterances/client.js"
+        repo="dsciztech/dsciztech.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
